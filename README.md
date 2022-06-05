@@ -1,3 +1,5 @@
 #TEST repository
-New text
+New textg
+Lorem
+fix2 changes
 Some very great text
